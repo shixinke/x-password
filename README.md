@@ -71,6 +71,10 @@ jQuery
 
 $(selector).xPassword();
 
+## 效果：
+
+![基本用法](https://github.com/shixinke/x-password/blob/master/screenshots/xpassword.png)
+
 ## 演示
 
 请下载demo文件夹

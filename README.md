@@ -27,6 +27,7 @@ jQuery
        <td>pattern</td>
        <td>object</td>
        <td>
+           
            {
           
             level0:/^[a-zA-Z]{6,}$/,
